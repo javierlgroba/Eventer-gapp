@@ -1,0 +1,1 @@
+from eventer.settings import *

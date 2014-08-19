@@ -1,4 +1,4 @@
 Eventer-gapp
 ============
 
-Project for the google app engine web.
+Repository for the Eventer version hosted on Google APP engine.
